@@ -1,8 +1,3 @@
-﻿//Hayden Foster
-//ICS 
-//Snake Game
-//June 14, 2019
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
